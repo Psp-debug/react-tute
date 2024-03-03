@@ -1,0 +1,28 @@
+{
+    "editor.mouseWheelZoom": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\Sysnative\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "code-runner.runInTerminal": true,
+    "dart.flutterSdkPath": "C:\\src\\flutter",
+    "cmake.configureOnOpen": true,
+    "editor.fontLigatures": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "dart.debugExternalPackageLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "cmake.showOptionsMovedNotification": false,
+    "workbench.colorCustomizations": {
+        "editor.background": "#0b0b0b",
+        "sideBar.background": "#111111",
+        "activityBar.background": "#0c0c0c",
+        "notifications.background": "#0e0e0e",
+        "panel.background": "#010409",
+        "terminal.background": "#010409"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.preferredDarkColorTheme": "Dark Soft Theme(SM)",
+    "editor.wordWrap": "on",
+    "editor.smartSelect.selectSubwords": false,
+    "javascript.preferences.quoteStyle": "double",
+    "typescript.preferences.quoteStyle": "double",
+    "git.enabled": false,
+}
